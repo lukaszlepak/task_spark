@@ -10,6 +10,7 @@ uwagi co do rozwiązania:
 
 zauważyłem też kilka braków w wymaganiach:
 - na jakiej podstawie wybierać które duplikaty usuwać przy tym samym ID i dacie
+- przemnożenie przez kurs tylko dla średniej, a dla zsumowanych wartości nie
 - co jeżeli suma gwarancji przekracza 100%
 - i przy innych nieprawidłowych wartościach, datach itp.
 
