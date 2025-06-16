@@ -5,7 +5,7 @@ uwagi co do rozwiązania:
 - w kodzie dodałem kilka razy "show" żeby pokazać jak wyglądały dane pomiędzy warstwami/transformacjami
 - co do uruchomienia kodu, w instrukcji nie był uścislony sposób dostarczenia rozwiązania - zrobiłem to z intelij odpalając lokalnie, tez w repo dorzuciłem pliki z przykładowymi danymi żeby można było to łatwo uruchomić i sprawdzić
 - ale dodałem tez config gdzie można zmienić path do plików
-- dodałem testy które można uruchomić
+- dodałem proste testy które można uruchomić
 - jeżeli powinienem coś jeszcze dodać/zmienić to śmiało można pisać linkedin/mail
 
 zauważyłem też kilka braków w wymaganiach:
